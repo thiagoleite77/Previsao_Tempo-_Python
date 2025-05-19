@@ -6,7 +6,7 @@ Este é um projeto simples e interativo desenvolvido em **Python** que exibe a p
 
 ## 🔧 Tecnologias Utilizadas
 
-- 🐍 Python 3.x
+- 🐍 Python 
 - 📡 Requests (requisições HTTP)
 - 📊 Plotly (gráficos interativos)
 - 🌐 Streamlit (interface web)
